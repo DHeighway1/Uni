@@ -1,5 +1,6 @@
-## Dean Heighway – s3925053 
+## Dean Heighway – s3925053                                                                                                                      
 S3925053@student.rmit.edu.au 
+![image](https://user-images.githubusercontent.com/101151795/159156605-9b8e28ec-7229-4c8b-bcaf-9d57271d6694.png)
 
 ### Personal Information
 My name is Dean Heighway and I'm a 27-year-old born in Australia and of Australian decent, in my lifetime I’ve only ever spoken English and I’ve learned beginner levels or Italian. My highest level of education is finishing the HSC and also, I have completed a semester of a bachelor of nutrition. 
@@ -15,7 +16,8 @@ I choose RMIT for my studies as it is one of the leading IT programs in the coun
 
 I expect to obtain a greater understanding of how computers work both internally and externally as well as a deeper understanding and competency of programming languages. 
 
-### Ideal Job
+### Ideal Job!
+![image](https://user-images.githubusercontent.com/101151795/159156291-67aa9bc4-ab2f-44c2-8076-df58b7f78da7.png)
 
 https://careers.blizzard.com/global/en/job/R007754/Mid-Senior-Encounter-Designer-World-of-Warcraft 
 This job is responsible for the high quality encounter design of raid and dungeon content within the game world of warcraft; including things such as creative design, technical implementation, and careful attention to details such as balance and polish.  A requirement for this job is a minimum of 3 years of game development experience and two years of content creation. 
@@ -40,6 +42,9 @@ For the tactile side it suggests hands on learning and taking short sharp bursts
 Lastly, I did a big five personality test at truity.com and it measured my personality to be OCEAN: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. 
 
 From these tests I can deduce that I am an empathetic individual who works well as a team and doesn’t cause problems or have personality clashes. Within a team environment I believe that this makes me a great asset as I would stay on focus and be able to contribute to the project through my own ideas and contributions as well as being able to bring the best out of others. I think when forming a team to mix with my abilities it would be great to get someone who is very structured with their approach, someone who is a bit more extraverted and more direct with their ideas and the direction they want to take things, I believe that opposites work well together and that is why a person with those attributes would be great alongside me so that we can cover all the bases for a great team. 
+![image](https://user-images.githubusercontent.com/101151795/159156279-1bc5d1c2-6774-48b7-b959-fe5130c1a125.png)
+![image](https://user-images.githubusercontent.com/101151795/159156326-a7de3b16-5231-4784-a14e-e9c4a1d6f899.png)
+
 
 ### Project Idea
 I want to design an app, the purpose of the app would be to get information from the user in regards to what food they have in the kitchen, they would enter it into the app and then the app would compile a list of recipes that they can make with the food that they have available, the name is a work in progress but along the lines of ‘What can I make with this?’. It would most likely be a smartphone app with compatibility for things like google home and Alexa. 

@@ -73,18 +73,3 @@ The skills required would be a proficiency in python and a knowledge of how to s
 
 The outcome of this app would be a solution to the many people just like me who have no idea what they want to cook for dinner and also it would have the added convenience of things such as a macronutrient calculator for those who are health conscious as well as a commercial version for restaurants to manage inventory. It will make life a lot easier for those who struggle for inspiration and a smarter way for restaurants to manage inventory. 
 
-
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DHeighway1/Uni/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -1,5 +1,9 @@
 ## Dean Heighway – s3925053                                                                                                                      
 S3925053@student.rmit.edu.au 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/101151795/159156605-9b8e28ec-7229-4c8b-bcaf-9d57271d6694.png)
 
 ### Personal Information
